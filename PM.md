@@ -1,8 +1,8 @@
 # Inledning
-I denna upgift så har vi gjort en login till vårat forum som man kan ta bort och lägga till nya användare till.
+I denna upgift så har vi gjort en login till vårat forum som man kan ta bort och lägga till nya användare till. Och vi har andvänt mysql och nunjucks.
 
 # Bakgrund
-Vi började med att skapa ett forum där man kann skriva saker och nu skulle vi göra en login till den sidan så man kunde skappa en användare till forumet.
+Vi började med att skapa ett forum där man kann skriva saker och nu skulle vi göra en login till den sidan så man kunde skappa en användare till forumet. Och vi har andvänt oss av routes, views och vi skulle använda lite scss men det hanv inte göra. vi började med att göra själva loginen och sedan gjorde vi en register så man kunnde registrera sig och sedan eftesom vi had etid över gjorde vi så att man kunde ta bort använndare som man hade gjort. 
 
 # Positiva erfarenheter
 Jag tycker att nästa allt har gått bra för vi har inte haft något problem som tog lång tid förutom ett som bara var ett stavfel som vi inte såg. Att skriva routes gick också bra vi hade inte riktigt något problem. När vi väl hade börjat skriva så gick det bra och även fast vi var tvungna att göra om test 3 två gånger så var vi färdiga när alla andra var det.  
